@@ -2,6 +2,7 @@
 author: Sergio Silva
 description: Tutorial para Instalar mysql desde Ubuntu 14.04
 keywords: mysql,instalar mysql,instalar mysql ubuntu,ubuntu 14.04
+title: Instalar mysql desde Ubuntu 14.04
 ---
 
 # Instalar mysql desde Ubuntu 14.04
