@@ -1,19 +1,19 @@
 ---
 author: Sergio Silva
 description: Tutorial para instalar servidor apache en centos 7
-keywords: apache,instalar servidor,instalar servidor apache,centos 7
+keywords: apache, instalar servidor, instalar servidor apache, centos 7
 title: Instalar servidor apache en centos 7
 ---
 
 # Centos Install Apache
 
-centos install apache Un servidor centos siempre lo puedes usar como un web server para mostrar páginas web con el servidor apache ya sea para mostrar algún sitio de la empresa para la que trabajes o para mostrar un blog personal, centos es un linux server que te puede ayudar tener estos servicios operando en 15 minutos, pero no es tan simple como escribir centos install apache, la verdad, sería bueno que se hiciera así pero no te preocupes aquí te digo los pasos de cómo instalar apache en centos 7 o 6.x.
+centos install apache Un servidor centos siempre lo puedes usar como un web server para mostrar páginas web con el servidor apache ya sea para mostrar algún sitio de la empresa para la que trabajes o para mostrar un blog personal, centos es un linux server que te puede ayudar tener estos servicios operando en 15 minutos, {{ hosting_name }} pero no es tan simple como escribir centos install apache, la verdad, sería bueno que se hiciera así pero no te preocupes aquí te digo los pasos de cómo instalar apache en centos 7 o 6.x.
 
 ## Centos Install Apache
 
-Como te mencioné, en centos puedes instalar un web server y en general es un procesos sencillo que puedes hacer con unos cuantos pasos, pero quiero comentarte que en la versión 7 de Centos y Red Hat no funcionan los mismo comandos que en las versiones anteriores como Centos 6.5, por esto aquí te pongo las dos formas para que no tengas problemas servidor apache independientemente de cual versión de centos tengas.
+Como te mencioné, en centos puedes instalar un web server y en general es un procesos sencillo que puedes hacer con unos cuantos pasos, pero quiero comentarte que en la versión 7 de Centos y Red Hat {{ hosting_name }} no funcionan los mismo comandos que en las versiones anteriores como Centos 6.5, por esto aquí te pongo las dos formas para que no tengas problemas servidor apache independientemente de cual versión de centos tengas.
 
-Para instalar el servidor apache en centos 6.X o en Centos 7 puedes usar el siguiente comando:
+Para instalar el servidor apache en centos 6.X o en Centos 7 puedes {{ var_x }} usar el siguiente comando:
 ~~~~
 sudo yum install httpd
 ~~~~
