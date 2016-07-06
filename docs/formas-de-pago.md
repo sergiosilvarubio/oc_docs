@@ -9,11 +9,6 @@ Al momento de solicitar uno de nuestros productos, se generará de forma automá
 
 Una vez iniciada la sesión en el área de cliente, debemos ir a la sección facturación > mis facturas y seleccionar la orden de compra que deseamos pagar a través del botón "ver factura", se visualizará un preview del documento, en la esquina superior derecha de dicho documento será posible seleccionar el método de pago que más se acomode a nuestras necesidades.
 
->dsjnvjdnvj+
-
-_______
-dfdsfdsfdsf
------
 
 
 ----------
