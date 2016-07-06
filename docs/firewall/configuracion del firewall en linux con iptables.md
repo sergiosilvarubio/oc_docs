@@ -3,6 +3,7 @@ author: Sergio Silva
 description: Tutorial para configurar del firewall en linux con iptables
 keywords: configurar,firewall,linux,iptables
 title: Configuración firewall en linux con iptables
+type: video
 ---
 
 Un firewall es un dispositivo, ya sea software o hardware, que filtra todo el tráfico de red. El sistema operativo Linux dispone de un firewall llamado IPtables.

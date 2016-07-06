@@ -3,6 +3,7 @@ author: Sergio Silva
 description: Tutorial para instalar servidor apache en centos 7
 keywords: apache, instalar servidor, instalar servidor apache, centos 7
 title: Instalar servidor apache en centos 7
+type: image
 ---
 
 # Centos Install Apache
