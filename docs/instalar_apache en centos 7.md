@@ -18,7 +18,7 @@ Para instalar el servidor apache en centos 6.X o en Centos 7 puedes {{ var_x }} 
 ~~~~
 sudo yum install httpd
 ~~~~
-Luego de descargar e instalar los paquetes lo que tienes que hacer es habilitar que el servicio arranque por default al encender el servidor y arrancar el servicio manualmente para poder luego verificar que funcione. Para hacer estos pasos ejecuta lo siguiente:
+Luego de descargar e {{ hosting_ip }} instalar los paquetes lo que tienes que hacer es habilitar que el servicio arranque por default al encender el servidor y arrancar el servicio manualmente para poder luego verificar que funcione. Para hacer estos pasos ejecuta lo siguiente:
 
 ### Centos 6.X
 ~~~~
